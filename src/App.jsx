@@ -1,10 +1,10 @@
-import Accordion from './Project_Components/Accordion.jsx'
+import Accordion from './Project_Components/Accordion/Accordion.jsx'
 
 function App() {
 
   return (
     <>
-      
+      <Accordion/>
     </>
   )
 }
